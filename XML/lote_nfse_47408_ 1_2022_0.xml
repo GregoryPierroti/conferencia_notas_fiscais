@@ -1,0 +1,4043 @@
+<ConsultarNfseLote>
+  <ListaNfse>
+<CompNfse>
+<Nfse>
+	<InfNfse id="3114">
+		<Numero>3114</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:31:44</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>25685.66</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>166.96</ValorPis>
+				<ValorCofins>770.56</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>385.28</ValorIr>
+				<ValorCsll>256.86</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>513.71</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>25685.66</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>24106.00</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3115">
+		<Numero>3115</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:36:29</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>859.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>5.59</ValorPis>
+				<ValorCofins>25.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>12.89</ValorIr>
+				<ValorCsll>8.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>17.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>859.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>806.40</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3116">
+		<Numero>3116</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:39:01</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>16704.66</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>108.58</ValorPis>
+				<ValorCofins>501.14</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>250.57</ValorIr>
+				<ValorCsll>167.05</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>334.09</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>16704.66</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>15677.32</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3117">
+		<Numero>3117</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:39:36</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>9830.92</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>63.90</ValorPis>
+				<ValorCofins>294.93</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>147.46</ValorIr>
+				<ValorCsll>98.31</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>196.62</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>9830.92</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>9226.32</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3118">
+		<Numero>3118</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:40:09</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>6345.38</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>41.24</ValorPis>
+				<ValorCofins>190.37</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>95.18</ValorIr>
+				<ValorCsll>63.45</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>126.91</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>6345.38</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>5955.14</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3119">
+		<Numero>3119</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:40:50</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>34127.80</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>221.83</ValorPis>
+				<ValorCofins>1023.83</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>511.92</ValorIr>
+				<ValorCsll>341.28</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>682.56</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>34127.80</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>32028.94</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3120">
+		<Numero>3120</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:41:24</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>179.62</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>0.00</ValorPis>
+				<ValorCofins>0.00</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>0.00</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>3.59</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>179.62</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>179.62</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3121">
+		<Numero>3121</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T15:41:57</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>359.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.34</ValorPis>
+				<ValorCofins>10.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>3.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>7.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>359.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>342.54</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3122">
+		<Numero>3122</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:17:21</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>27841.10</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>180.97</ValorPis>
+				<ValorCofins>835.23</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>417.62</ValorIr>
+				<ValorCsll>278.41</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>556.82</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>27841.10</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>26128.87</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3123">
+		<Numero>3123</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:17:54</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>538.86</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>3.50</ValorPis>
+				<ValorCofins>16.17</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>5.39</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>10.78</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>538.86</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>513.80</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3124">
+		<Numero>3124</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:18:26</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>538.86</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>3.50</ValorPis>
+				<ValorCofins>16.17</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>5.39</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>10.78</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>538.86</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>513.80</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3125">
+		<Numero>3125</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:19:00</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>1909.02</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>12.41</ValorPis>
+				<ValorCofins>57.27</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>28.64</ValorIr>
+				<ValorCsll>19.09</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>38.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>1909.02</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>1791.61</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3126">
+		<Numero>3126</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:19:35</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>1909.02</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>12.41</ValorPis>
+				<ValorCofins>57.27</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>28.64</ValorIr>
+				<ValorCsll>19.09</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>38.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>1909.02</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>1791.61</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3127">
+		<Numero>3127</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:20:08</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>954.51</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>6.20</ValorPis>
+				<ValorCofins>28.63</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>14.32</ValorIr>
+				<ValorCsll>9.55</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>19.09</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>954.51</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>895.81</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3128">
+		<Numero>3128</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-17T16:20:39</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-17</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>359.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.34</ValorPis>
+				<ValorCofins>10.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>3.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>7.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>359.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>342.54</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3129">
+		<Numero>3129</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:27:46</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>7184.80</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>46.70</ValorPis>
+				<ValorCofins>215.54</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>107.77</ValorIr>
+				<ValorCsll>71.85</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>143.70</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>7184.80</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>6742.94</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3130">
+		<Numero>3130</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:28:22</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>429.62</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.79</ValorPis>
+				<ValorCofins>12.89</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>4.30</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>8.59</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>429.62</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>409.64</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3131">
+		<Numero>3131</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:28:55</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>10417.96</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>67.72</ValorPis>
+				<ValorCofins>312.54</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>156.27</ValorIr>
+				<ValorCsll>104.18</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>208.36</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>10417.96</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>9777.25</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3132">
+		<Numero>3132</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:29:31</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>9830.92</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>63.90</ValorPis>
+				<ValorCofins>294.93</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>147.46</ValorIr>
+				<ValorCsll>98.31</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>196.62</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>9830.92</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>9226.32</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3133">
+		<Numero>3133</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:30:19</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>12690.76</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>82.49</ValorPis>
+				<ValorCofins>380.72</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>190.36</ValorIr>
+				<ValorCsll>126.91</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>253.82</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>12690.76</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>11910.28</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3134">
+		<Numero>3134</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:30:56</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>22632.12</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>147.11</ValorPis>
+				<ValorCofins>678.96</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>339.48</ValorIr>
+				<ValorCsll>226.32</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>452.64</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>22632.12</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>21240.25</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3135">
+		<Numero>3135</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:31:29</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>2563.10</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>16.66</ValorPis>
+				<ValorCofins>76.89</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>38.45</ValorIr>
+				<ValorCsll>25.63</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>51.26</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>2563.10</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>2405.47</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3136">
+		<Numero>3136</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:32:01</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>359.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.34</ValorPis>
+				<ValorCofins>10.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>3.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>7.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>359.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>342.54</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3137">
+		<Numero>3137</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:32:36</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>13830.74</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>89.90</ValorPis>
+				<ValorCofins>414.92</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>207.46</ValorIr>
+				<ValorCsll>138.31</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>276.61</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>13830.74</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>12980.15</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3138">
+		<Numero>3138</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:33:09</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>359.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.34</ValorPis>
+				<ValorCofins>10.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>3.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>7.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>359.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>342.54</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3139">
+		<Numero>3139</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:33:42</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>3844.65</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>24.99</ValorPis>
+				<ValorCofins>115.34</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>57.67</ValorIr>
+				<ValorCsll>38.45</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>76.89</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>3844.65</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>3608.20</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3140">
+		<Numero>3140</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:34:17</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>4915.46</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>31.95</ValorPis>
+				<ValorCofins>147.47</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>73.73</ValorIr>
+				<ValorCsll>49.15</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>98.31</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>4915.46</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>4613.16</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3141">
+		<Numero>3141</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:34:49</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>14663.88</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>95.32</ValorPis>
+				<ValorCofins>439.91</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>219.96</ValorIr>
+				<ValorCsll>146.64</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>293.28</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>14663.88</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>13762.05</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3142">
+		<Numero>3142</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:35:21</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>4402.20</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>28.61</ValorPis>
+				<ValorCofins>132.07</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>66.03</ValorIr>
+				<ValorCsll>44.02</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>88.04</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>4402.20</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>4131.47</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3143">
+		<Numero>3143</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:35:56</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>19039.72</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>123.76</ValorPis>
+				<ValorCofins>571.19</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>285.60</ValorIr>
+				<ValorCsll>190.40</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>380.79</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>19039.72</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>17868.77</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3144">
+		<Numero>3144</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:36:27</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>1281.55</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>8.33</ValorPis>
+				<ValorCofins>38.44</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>19.22</ValorIr>
+				<ValorCsll>12.82</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>25.63</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>1281.55</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>1202.74</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3145">
+		<Numero>3145</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:37:14</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>1281.55</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>8.33</ValorPis>
+				<ValorCofins>38.44</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>19.22</ValorIr>
+				<ValorCsll>12.82</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>25.63</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>1281.55</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>1202.74</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3146">
+		<Numero>3146</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:37:46</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>5927.46</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>38.53</ValorPis>
+				<ValorCofins>177.83</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>88.91</ValorIr>
+				<ValorCsll>59.27</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>118.55</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>5927.46</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>5562.92</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3147">
+		<Numero>3147</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-18T16:38:18</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-18</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>6345.38</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>41.24</ValorPis>
+				<ValorCofins>190.37</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>95.18</ValorIr>
+				<ValorCsll>63.45</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>126.91</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>6345.38</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>5955.14</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>4</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUAA 124</Endereco>
+				<Numero>0</Numero>
+				<Complemento>LOJA: BALCAO DE CHECK-IN;</Complemento>
+				<Bairro>UM AI</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>0</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3148">
+		<Numero>3148</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-19T15:26:12</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-19</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>39336.78</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>255.69</ValorPis>
+				<ValorCofins>1180.10</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>590.05</ValorIr>
+				<ValorCsll>393.37</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>786.74</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>39336.78</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>36917.57</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3149">
+		<Numero>3149</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-19T15:26:43</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-19</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>179.62</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>0.00</ValorPis>
+				<ValorCofins>0.00</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>0.00</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>3.59</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>179.62</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>179.62</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3150">
+		<Numero>3150</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-19T15:27:21</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-19</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>179.62</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>0.00</ValorPis>
+				<ValorCofins>0.00</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>0.00</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>3.59</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>179.62</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>179.62</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3151">
+		<Numero>3151</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-19T15:27:52</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-19</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>359.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.34</ValorPis>
+				<ValorCofins>10.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>3.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>7.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>359.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>342.54</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3152">
+		<Numero>3152</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-19T15:28:31</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-19</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>30894.64</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>200.82</ValorPis>
+				<ValorCofins>926.83</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>463.42</ValorIr>
+				<ValorCsll>308.95</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>617.89</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>30894.64</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>28994.62</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>3</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>RUA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>PORTARIA 3</Complemento>
+				<Bairro>0</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>SP</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+
+<CompNfse>
+<Nfse>
+	<InfNfse id="3153">
+		<Numero>3153</Numero>
+		<Serie/>
+		<Tipo/>
+		<CodigoVerificacao>0</CodigoVerificacao>
+		<DataEmissao>2022-01-19T15:29:02</DataEmissao>
+		<IdentificacaoRps>
+			<Numero>0</Numero>
+			<Serie/>
+			<Tipo>0</Tipo>
+		</IdentificacaoRps>
+		<DataEmissaoRps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true">
+		</DataEmissaoRps>
+		<NaturezaOperacao>1</NaturezaOperacao>
+		
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivadorCultural>2</IncentivadorCultural>
+		<Competencia>2022-01-19</Competencia>
+		
+		<OutrasInformacoes>0</OutrasInformacoes>
+		<Servico>
+			<Valores>
+				<ValorServicos>359.24</ValorServicos>
+				<ValorDeducoes>0.00</ValorDeducoes>
+				<ValorPis>2.34</ValorPis>
+				<ValorCofins>10.77</ValorCofins>
+				<ValorInss>0.00</ValorInss>
+				<ValorIr>0.00</ValorIr>
+				<ValorCsll>3.59</ValorCsll>
+				<IssRetido>2</IssRetido>
+				<ValorIss>7.18</ValorIss>
+				<ValorIssRetido>0.00</ValorIssRetido>
+				<OutrasRetencoes>0.00</OutrasRetencoes>
+				<BaseCalculo>359.24</BaseCalculo>
+				<Aliquota>0.0200</Aliquota>
+				<ValorLiquidoNfse>342.54</ValorLiquidoNfse>
+				<DescontoIncondicionado>0.00</DescontoIncondicionado>
+				<DescontoCondicionado>0.00</DescontoCondicionado>
+			</Valores>
+			<ItemListaServico>0</ItemListaServico>
+			<CodigoCnae>0</CodigoCnae>
+			<CodigoTributacaoMunicipio>0</CodigoTributacaoMunicipio>
+			<Discriminacao>0</Discriminacao>
+			<CodigoMunicipio>0</CodigoMunicipio>
+		</Servico>
+		<ValorCredito>0.00</ValorCredito>
+		<PrestadorServico>
+			<IdentificacaoPrestador>
+				<Cnpj>2</Cnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoPrestador>
+			<RazaoSocial>CONSULTORIA DE LOGISTICAS  LTDA</RazaoSocial>
+			<NomeFantasia>CONSULTORIA DE LOGISTICAS </NomeFantasia>
+			<Endereco>
+				<Endereco>ALAMEDA 288</Endereco>
+				<Numero>240</Numero>
+				<Complemento>SALA 310</Complemento>
+				<Bairro>VILA</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-5555</Telefone>
+				<Email>fulano@fulano.com</Email>
+			</Contato>
+		</PrestadorServico>
+		<TomadorServico>
+			<IdentificacaoTomador>
+				<CpfCnpj>
+					<Cpf/>
+					<Cnpj>1</Cnpj>
+				</CpfCnpj>
+				<InscricaoMunicipal>0</InscricaoMunicipal>
+			</IdentificacaoTomador>
+			<RazaoSocial>JOÃO CAMINHÕES</RazaoSocial>
+			<Endereco>
+				<Endereco>ALAMEDA 123</Endereco>
+				<Numero>S/N</Numero>
+				<Complemento>SALA A</Complemento>
+				<Bairro>CENTRO</Bairro>
+				<CodigoMunicipio>0</CodigoMunicipio>
+				<Uf>MG</Uf>
+				<Cep>123456</Cep>
+			</Endereco>
+			<Contato>
+				<Telefone>555-555</Telefone>
+				<Email>CLIENTE@CLIENTE.COM</Email>
+			</Contato>
+		</TomadorServico>
+		<OrgaoGerador>
+			<CodigoMunicipio>0</CodigoMunicipio>
+			<Uf>MG</Uf>
+		</OrgaoGerador>
+	</InfNfse>
+	
+</Nfse>
+</CompNfse>
+  </ListaNfse>
+</ConsultarNfseLote>
